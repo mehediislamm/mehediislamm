@@ -2,7 +2,6 @@
 
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehediislamm&theme=prussian&exclude_days=Wed)](https://git.io/streak-stats)
 
 📈 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehediislamm&theme=prussian&exclude_days=Wed)](https://git.io/streak-stats)
