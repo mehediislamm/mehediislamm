@@ -1,4 +1,4 @@
- [![An old rock in the desert](https://i.ibb.co/NsTQSP6/Black-Yellow-Bold-Bag-Fashion-Sale-Banner.png)](https://i.ibb.co/NsTQSP6/Black-Yellow-Bold-Bag-Fashion-Sale-Banner.png)
+
 
 
 
