@@ -31,3 +31,34 @@
 - 🤔  I’m looking - To collaborate on open source projects...
 - 💬 Ask me - about web development  
 - ⚡ Fun fact -   I can speak 2 languages....
+
+
+
+#Recent Projects
+
+##🏋️ A Bulding Management Website
+ - Description: User can create , delete post .make comments view comments report comments and search post
+- ###Technologies Used:
+-React.js, Tailwind CSS
+-Express.js, Node.js
+-MongoDB
+  -[Client-Site](https://github.com/mehediislamm/building-management-client)  [Server-Site](https://github.com/mehediislamm/building-management-server)  [Live Site](https://building-management-42ca6.web.app/)
+
+ 
+
+##🏋️ A Forum Website
+ - Description: User can create , delete post .make comments view comments report comments and search post
+- ###Technologies Used:
+-React.js, Tailwind CSS
+-Express.js, Node.js
+-MongoDB
+
+
+ 
+
+##🏋️ A Forum Website
+ - Description: User can create , delete post .make comments view comments report comments and search post
+- ###Technologies Used:
+-React.js, Tailwind CSS
+-Express.js, Node.js
+-MongoDB
