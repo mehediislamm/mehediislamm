@@ -37,7 +37,7 @@
 # Recent Projects
 
 ## 🏋️ A Bulding Management Website
- - Description: User can create , delete post .make comments view comments report comments and search post
+ - ### Description: If a user wants to, they can request to become a member for an apartment from the admin, Once a member, they can pay for apartment bookings.The admin has the authority to create members for users at any time. The admin can also make announcements at any time.
 - ### Technologies Used:
 - React.js, Tailwind CSS
 - Express.js, Node.js
@@ -58,10 +58,10 @@
 
  
 
-## 🏋️ A My Portfolio Website
- - Description: just portfolio page and my s
+## 🏋️ A Birth party Website
+ - Description: This is a birthday party cake shop , anyone can order birthday cakes here
 - ### Technologies Used:
 - React.js, Tailwind CSS
 - Express.js, Node.js
 - MongoDB
-- [Client-Site](https://github.com/mehediislamm/my-portfolio)  [Server-Site](https://github.com/mehediislamm?tab=repositories)  [Live Site](https://my-portfolio-9019e.web.app/?fbclid=IwAR3UB56mgSu1ir35X4IHxLPdJLMnpGcYPYslA5Zmd2ZrYxmCgrIPoE7GMfM)
+- [Client-Site](https://github.com/mehediislamm/social-event)  [Server-Site](https://github.com/mehediislamm?tab=repositories)  [Live Site](https://social-event-birthday-party.web.app/)
