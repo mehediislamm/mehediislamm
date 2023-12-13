@@ -34,31 +34,34 @@
 
 
 
-#Recent Projects
+# Recent Projects
 
-##🏋️ A Bulding Management Website
+## 🏋️ A Bulding Management Website
  - Description: User can create , delete post .make comments view comments report comments and search post
-- ###Technologies Used:
--React.js, Tailwind CSS
--Express.js, Node.js
--MongoDB
-  -[Client-Site](https://github.com/mehediislamm/building-management-client)  [Server-Site](https://github.com/mehediislamm/building-management-server)  [Live Site](https://building-management-42ca6.web.app/)
+- ### Technologies Used:
+- React.js, Tailwind CSS
+- Express.js, Node.js
+- MongoDB
+- [Client-Site](https://github.com/mehediislamm/building-management-client)  [Server-Site](https://github.com/mehediislamm/building-management-server)  [Live Site](https://building-management-42ca6.web.app/)
 
  
 
-##🏋️ A Forum Website
- - Description: User can create , delete post .make comments view comments report comments and search post
-- ###Technologies Used:
--React.js, Tailwind CSS
--Express.js, Node.js
--MongoDB
+## 🏋️ A Group Study  Website
+ - Description:  User can create , delete , and modify assignment .user can also give marks to other usets for assignment
+- ### Technologies Used:
+- React.js, Tailwind CSS
+- Express.js, Node.js
+- MongoDB
+  
+  - [Client-Site](https://github.com/mehediislamm/online-group-study-client)  [Server-Site](https://github.com/mehediislamm/online-group-study-server)  [Live Site](https://study-group-ee61f.web.app/)
 
 
  
 
-##🏋️ A Forum Website
- - Description: User can create , delete post .make comments view comments report comments and search post
-- ###Technologies Used:
--React.js, Tailwind CSS
--Express.js, Node.js
--MongoDB
+## 🏋️ A My Portfolio Website
+ - Description: just portfolio page and my s
+- ### Technologies Used:
+- React.js, Tailwind CSS
+- Express.js, Node.js
+- MongoDB
+- [Client-Site](https://github.com/mehediislamm/my-portfolio)  [Server-Site](https://github.com/mehediislamm?tab=repositories)  [Live Site](https://my-portfolio-9019e.web.app/?fbclid=IwAR3UB56mgSu1ir35X4IHxLPdJLMnpGcYPYslA5Zmd2ZrYxmCgrIPoE7GMfM)
